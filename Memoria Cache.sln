@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memoria Cache", "Memoria Cache\Memoria Cache.csproj", "{CDD4607F-604A-4563-AF0D-4F68D3C7D2FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD4607F-604A-4563-AF0D-4F68D3C7D2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD4607F-604A-4563-AF0D-4F68D3C7D2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD4607F-604A-4563-AF0D-4F68D3C7D2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD4607F-604A-4563-AF0D-4F68D3C7D2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C38CC1-CC88-4E39-95B3-8203D4CF31B8}
+	EndGlobalSection
+EndGlobal
